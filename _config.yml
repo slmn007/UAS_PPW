@@ -1,0 +1,17 @@
+title: UAS PPW
+author: Sulaiman
+logo: logo.png
+
+execute:
+  execute_notebooks: force
+
+repository:
+  url: https://github.com/slmn007/uas_ppw  # Online location of your book
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+html:
+  use_repository_button: true
+
+launch_buttons:
+  notebook_interface        : classic  # The interface interactive links will activate ["classic", "jupyterlab"]
+  colab_url                 : "https://colab.research.google.com/drive/1PgYGiH0EtmxEdFWa1ZNrOJlfismrdAdC?usp=sharing" # The URL of Google Colab (https://colab.research.google.com)
